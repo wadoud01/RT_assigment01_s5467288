@@ -25,14 +25,20 @@ There are 3 parts : Main functions, Track_silver(), Track_golden()
 1)Main funciton : Is made by "for" loop (6 repetitions because there are 6 silver boxes), It starts the function "Track_silver()" which starts tracking the silver box, the when it finshes it executs the function "Track_golden()" to grab new golden box. after six times it prints that the mission is completed.
 
 2)Track_silver(): this fuction is used to grab the silver box. using while loop and if statements. 
+
 -we used some variable in order to control the following:
+
 -Var = 0 or 1 : var is used to quit the while loops, if the the var is 0 is exits the tracki_silver function.
+
 -List_silver: the list is used in order to register the ID of the silver box in order to avoid being repeated.
 
 
 3)Track_golden(): this fuction is used to grab the silver box. using while loop and if statements.
+
 -we used some variable in order to control the following:
+
 -Var = 0 or 1 : var is used to quit the while loops, if it's 1 it exits the track_golden fuction
+
 -List_gold: the list is used in order to register the ID of the silver box in order to avoid being repeated.
 
 Analysing the code 
