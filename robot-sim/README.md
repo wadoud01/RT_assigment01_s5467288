@@ -34,6 +34,7 @@ Analysing the code
 The benifits:
 1) the code does the requirements succussfully.
 2) The main function is short and contains only few lines.
-3) the code is well organized
+3) the code is well organized.
+
 The disadvatages:
 1) only it brings the nearest box in R.see(), which means if there is other close box not in R.see() it won't be detected.
